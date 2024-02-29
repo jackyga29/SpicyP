@@ -17,5 +17,13 @@ public class PlayerMovement : MonoBehaviour
         {
             GetComponent<Rigidbody2D>().velocity = new Vector3(0, 7, 0);
         }
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector3(3, 0, 0);
+        }
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector3(-3, 0, 0);
+        }
     }
 }
