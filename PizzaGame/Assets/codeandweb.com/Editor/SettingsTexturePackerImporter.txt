@@ -1,0 +1,11 @@
+version: 2
+tpsheetFileNames:
+- Assets/ART/PizzaBoy/Idle/PBIdle.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/ART/PizzaBoy/Idle/PBIdle.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0
