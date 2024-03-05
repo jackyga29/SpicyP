@@ -7,6 +7,7 @@ public class PlayerHealth : MonoBehaviour
     
     public int MaxHealth = 3; 
     public int Health; 
+    public GameObject GameOverCanvas; 
 
     // Start is called before the first frame update
     void Start()
@@ -19,7 +20,7 @@ public class PlayerHealth : MonoBehaviour
         Health -= damage;
         if(Health <= 0)
         {
-            //GameOverCanvas.SetActive(true);
+            GameOverCanvas.SetActive(true);
         }
     }
 }

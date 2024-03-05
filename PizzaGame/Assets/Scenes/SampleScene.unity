@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 292782279}
   - component: {fileID: 292782278}
   m_Layer: 5
-  m_Name: 'game over '
+  m_Name: GameOverCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -523,7 +523,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -24292,15 +24292,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 294451486, guid: ecf5e9dba306b134b96be8ecee6a0bdf, type: 3}
+  m_Sprite: {fileID: -655763067, guid: 119553f64346a2642bfb2254333e0244, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.66, y: 3.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1794907150
@@ -24312,7 +24312,7 @@ Transform:
   m_GameObject: {fileID: 1794907146}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.1, y: 2.9, z: -9.112398}
+  m_LocalPosition: {x: -3.62, y: 1.12, z: -0.45}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -24388,7 +24388,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.4822335, y: 0.5053996}
     oldSize: {x: 1.97, y: 4.63}
-    newSize: {x: 1, y: 1}
+    newSize: {x: 1.66, y: 3.2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -24410,6 +24410,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MaxHealth: 3
   Health: 0
+  GameOverCanvas: {fileID: 292782277}
 --- !u!1 &1933096582
 GameObject:
   m_ObjectHideFlags: 0
