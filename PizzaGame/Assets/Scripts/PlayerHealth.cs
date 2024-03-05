@@ -5,21 +5,21 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     
-    public int MaxHealth = 10; 
-    public int health; 
+    public int MaxHealth = 3; 
+    public int Health; 
 
     // Start is called before the first frame update
     void Start()
     {
-        health = MaxHealth;
+        Health = MaxHealth;
     }
 
     public void TakeDamage(int damage)
     {
-        health -= damage;
-        if(health <= 0)
+        Health -= damage;
+        if(Health <= 0)
         {
-            Destroy(gameObject);
+            //GameOverCanvas.SetActive(true);
         }
     }
 }
