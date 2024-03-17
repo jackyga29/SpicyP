@@ -106,19 +106,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -126,8 +113,8 @@ TextureImporter:
       name: Idle_1
       rect:
         serializedVersion: 2
-        x: 1360
-        y: 1087
+        x: 1850
+        y: 560
         width: 197
         height: 463
       alignment: 9
@@ -147,8 +134,8 @@ TextureImporter:
       name: Idle_2
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1307
+        x: 1716
+        y: 486
         width: 185
         height: 455
       alignment: 9
@@ -168,8 +155,8 @@ TextureImporter:
       name: Idle_3
       rect:
         serializedVersion: 2
-        x: 1512
-        y: 1162
+        x: 1862
+        y: 110
         width: 185
         height: 455
       alignment: 9
@@ -189,8 +176,8 @@ TextureImporter:
       name: Idle_4
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 1594
+        x: 1528
+        y: 575
         width: 187
         height: 448
       alignment: 9
@@ -210,8 +197,8 @@ TextureImporter:
       name: Run_1
       rect:
         serializedVersion: 2
-        x: 415
-        y: 524
+        x: 1
+        y: 182
         width: 392
         height: 436
       alignment: 9
@@ -231,8 +218,8 @@ TextureImporter:
       name: Run_2
       rect:
         serializedVersion: 2
-        x: 1690
-        y: 1
+        x: 585
+        y: 121
         width: 357
         height: 436
       alignment: 9
@@ -252,8 +239,8 @@ TextureImporter:
       name: Run_3
       rect:
         serializedVersion: 2
-        x: 858
-        y: 179
+        x: 916
+        y: 519
         width: 285
         height: 430
       alignment: 9
@@ -273,8 +260,8 @@ TextureImporter:
       name: Run_4
       rect:
         serializedVersion: 2
-        x: 575
-        y: 54
+        x: 269
+        y: 164
         width: 393
         height: 433
       alignment: 9
@@ -294,8 +281,8 @@ TextureImporter:
       name: Run_5
       rect:
         serializedVersion: 2
-        x: 35
-        y: 310
+        x: 1
+        y: 579
         width: 408
         height: 444
       alignment: 9
@@ -315,8 +302,8 @@ TextureImporter:
       name: Run_6
       rect:
         serializedVersion: 2
-        x: 782
-        y: 1265
+        x: 624
+        y: 555
         width: 379
         height: 437
       alignment: 9
@@ -336,8 +323,8 @@ TextureImporter:
       name: Run_7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
+        x: 848
+        y: 100
         width: 319
         height: 430
       alignment: 9
@@ -357,8 +344,8 @@ TextureImporter:
       name: Run_8
       rect:
         serializedVersion: 2
-        x: 587
-        y: 828
+        x: 310
+        y: 590
         width: 393
         height: 433
       alignment: 9
@@ -374,321 +361,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: IdleShoot
-      rect:
-        serializedVersion: 2
-        x: 1028
-        y: 49
-        width: 248
-        height: 463
-      alignment: 9
-      pivot: {x: 0.3951613, y: 0.5053996}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c6db67b663bbe648b1f9bc99baafb23
-      internalID: -612575074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_1
-      rect:
-        serializedVersion: 2
-        x: 1790
-        y: 722
-        width: 257
-        height: 338
-      alignment: 9
-      pivot: {x: 0.5252918, y: 0.32544377}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4078b836dd09634eb6a92a3c7d3cf3c
-      internalID: -1317332641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_2
-      rect:
-        serializedVersion: 2
-        x: 1789
-        y: 1026
-        width: 258
-        height: 328
-      alignment: 9
-      pivot: {x: 0.5232558, y: 0.30792683}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed0273bc20aae7a4caca9cb1d56ab203
-      internalID: -1020418139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_3
-      rect:
-        serializedVersion: 2
-        x: 1774
-        y: 419
-        width: 272
-        height: 323
-      alignment: 9
-      pivot: {x: 0.5441176, y: 0.2972136}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5b10dc8f14bd46438e2f376a457686a
-      internalID: -887605682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_4
-      rect:
-        serializedVersion: 2
-        x: 1696
-        y: 1726
-        width: 351
-        height: 321
-      alignment: 9
-      pivot: {x: 0.63247865, y: 0.29283488}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 531880435e44b014bbd46be70ce8ddf2
-      internalID: 852273203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jump_5
-      rect:
-        serializedVersion: 2
-        x: 1021
-        y: 1285
-        width: 368
-        height: 324
-      alignment: 9
-      pivot: {x: 0.66032606, y: 0.30246913}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4659d28f9a5d1b844839c5d52d039932
-      internalID: 1501743275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: JumpShoot
-      rect:
-        serializedVersion: 2
-        x: 1355
-        y: 1710
-        width: 245
-        height: 337
-      alignment: 9
-      pivot: {x: 0.4408163, y: 0.3264095}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10b8dcb01ecafbc4ea62b4be4f18fac8
-      internalID: -2090281122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_1
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 907
-        width: 445
-        height: 436
-      alignment: 9
-      pivot: {x: 0.5370787, y: 0.49082568}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2923d1a5e27e48045a11b86dde603cf7
-      internalID: -2116509712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_2
-      rect:
-        serializedVersion: 2
-        x: 506
-        y: 1611
-        width: 446
-        height: 436
-      alignment: 9
-      pivot: {x: 0.5381166, y: 0.5022936}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: abdabf23e22219c4081c1cd829729487
-      internalID: -596731986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_3
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 906
-        width: 384
-        height: 430
-      alignment: 9
-      pivot: {x: 0.46354166, y: 0.5093023}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b867ef0b4fd92949899c3d7fb4b7e7a
-      internalID: 891489309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_4
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 624
-        width: 451
-        height: 421
-      alignment: 9
-      pivot: {x: 0.54323727, y: 0.52019}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1c09e6327b9aa24a8d1a20fd7bc17f9
-      internalID: -22087142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_5
-      rect:
-        serializedVersion: 2
-        x: 418
-        y: 1212
-        width: 450
-        height: 432
-      alignment: 9
-      pivot: {x: 0.5422222, y: 0.5138889}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b91a798423d41904a9d3555bee849f33
-      internalID: -865575143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_6
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 1290
-        width: 445
-        height: 437
-      alignment: 9
-      pivot: {x: 0.5370787, y: 0.50800914}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 223a2a87c0ce93345ad5cbada56d9e68
-      internalID: -899514875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_7
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 1
-        width: 418
-        height: 430
-      alignment: 9
-      pivot: {x: 0.50717705, y: 0.5093023}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe9e77297adb0a64bb33a9b6b5cd746a
-      internalID: -1286459240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RunShoot_8
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1614
-        width: 451
-        height: 433
-      alignment: 9
-      pivot: {x: 0.54323727, y: 0.50577366}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b37dc5b5dd81fe94684358a4999d5bcd
-      internalID: -1598730987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -700,25 +372,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      IdleShoot: -612575074
       Idle_1: -655763067
       Idle_2: 1526172202
       Idle_3: 1614915370
       Idle_4: 766188539
-      JumpShoot: -2090281122
-      Jump_1: -1317332641
-      Jump_2: -1020418139
-      Jump_3: -887605682
-      Jump_4: 852273203
-      Jump_5: 1501743275
-      RunShoot_1: -2116509712
-      RunShoot_2: -596731986
-      RunShoot_3: 891489309
-      RunShoot_4: -22087142
-      RunShoot_5: -865575143
-      RunShoot_6: -899514875
-      RunShoot_7: -1286459240
-      RunShoot_8: -1598730987
       Run_1: 841615315
       Run_2: 787155197
       Run_3: 1848339359

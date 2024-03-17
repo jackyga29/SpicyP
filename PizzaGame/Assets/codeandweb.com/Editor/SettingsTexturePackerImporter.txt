@@ -1,13 +1,13 @@
 version: 2
 tpsheetFileNames:
-- Assets/ART/PizzaBoy/Bird.tpsheet
+- Assets/ART/Art_Proj/Bird.tpsheet
+- Assets/ART/Art_Proj/Plant.tpsheet
 - Assets/ART/PizzaBoy/PizzaBoySpriteSheet.tpsheet
-- Assets/ART/PizzaBoy/Plant.tpsheet
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 textureFileNames:
-- Assets/ART/PizzaBoy/Bird.png
+- Assets/ART/Art_Proj/Bird.png
+- Assets/ART/Art_Proj/Plant.png
 - Assets/ART/PizzaBoy/PizzaBoySpriteSheet.png
-- Assets/ART/PizzaBoy/Plant.png
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 normalmapFileNames:
 - 
