@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class PlayerController_V2 : MonoBehaviour
 {
@@ -32,20 +32,22 @@ public class PlayerController_V2 : MonoBehaviour
     public int currentHealth;
     public int maxHealth = 28;
 
-    // Start is called before the first frame update
+    public GameObject musicPlayer;
+    private AudioSource audioSource;
+
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
 
-        // Lock the player's vertical orientation upright
         rb2d.constraints = RigidbodyConstraints2D.FreezeRotation;
 
         currentHealth = maxHealth;
+
+        audioSource = musicPlayer.GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (isTakingDamage)
@@ -61,26 +63,22 @@ public class PlayerController_V2 : MonoBehaviour
         float keyHorizontal = Input.GetAxisRaw("Horizontal");
         rb2d.velocity = new Vector2(keyHorizontal * moveSpeed, rb2d.velocity.y);
 
-        // Flip sprite if moving left
         if (keyHorizontal < 0)
         {
             spriteRenderer.flipX = true;
             isFacingRight = false;
         }
-        // Flip sprite if moving right
         else if (keyHorizontal > 0)
         {
             spriteRenderer.flipX = false;
             isFacingRight = true;
         }
 
-        // Set "Moving" parameter in the Animator
         animator.SetBool("Moving", keyHorizontal != 0 && isGrounded);
 
-        // Check if the player can jump
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (isGrounded) // Player can only jump if grounded
+            if (isGrounded)
             {
                 rb2d.velocity = new Vector2(rb2d.velocity.x, jumpSpeed);
                 isGrounded = false;
@@ -90,17 +88,16 @@ public class PlayerController_V2 : MonoBehaviour
 
     void PlayerDirectionInput()
     {
-        // You can implement any player direction input logic here
+        // Implement player direction input logic here
     }
 
     void PlayerMovement()
     {
-        // Implement your player movement logic here
+        // Implement player movement logic here
     }
 
     void PlayerShootInput()
     {
-        // Set keyShoot to true when C key is pressed
         keyShoot = Input.GetKeyDown(KeyCode.C);
 
         float shootTimeLength = 0;
@@ -111,7 +108,6 @@ public class PlayerController_V2 : MonoBehaviour
             isShooting = true;
             keyShootRelease = false;
             shootTime = Time.time;
-            //shoot bullet
             Invoke("ShootBullet", 0.1f);
         }
         if (!keyShoot && !keyShootRelease)
@@ -136,12 +132,9 @@ public class PlayerController_V2 : MonoBehaviour
         bullet.GetComponent<BulletScript>().SetDamageValue(bulletDamage);
         bullet.GetComponent<BulletScript>().SetBulletSpeed(bulletSpeed);
 
-        // Determine the direction of the bullet
         Vector2 bulletDirection = isFacingRight ? Vector2.right : Vector2.left;
 
         bullet.GetComponent<BulletScript>().SetBulletDirection(bulletDirection);
-
-        // Set the sprite orientation of the bullet
         bullet.GetComponent<SpriteRenderer>().flipX = !isFacingRight;
 
         bullet.GetComponent<BulletScript>().Shoot();
@@ -185,10 +178,18 @@ public class PlayerController_V2 : MonoBehaviour
             }
             else
             {
+                PlayHitSound();
                 StartDamageAnimation();
-                // Call StopDamageAnimation after a delay or when the animation is completed
-                Invoke("StopDamageAnimation", 1.0f); // You can adjust the delay as needed
+                Invoke("StopDamageAnimation", 1.0f);
             }
+        }
+    }
+
+    void PlayHitSound()
+    {
+        if (audioSource != null)
+        {
+            audioSource.Play();
         }
     }
 
@@ -210,10 +211,8 @@ public class PlayerController_V2 : MonoBehaviour
     {
         isTakingDamage = false;
         isInvincible = false;
-        //reset animation with loop off
         animator.Play("Hurt_Mega", -1, 0f);
 
-        // Play Idle animation once Hurt_Mega animation ends
         AnimationClip[] clips = animator.runtimeAnimatorController.animationClips;
         foreach (AnimationClip clip in clips)
         {
@@ -233,6 +232,12 @@ public class PlayerController_V2 : MonoBehaviour
 
     void Defeat()
     {
-        Destroy(gameObject);
+        StartCoroutine(ReloadSceneAfterDelay(5f));
+    }
+
+    IEnumerator ReloadSceneAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reload the current scene
     }
 }
