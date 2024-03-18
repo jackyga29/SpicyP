@@ -255,8 +255,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &10393564
 Rigidbody2D:
   serializedVersion: 4
@@ -663,8 +661,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &14690288
 Rigidbody2D:
   serializedVersion: 4
@@ -1257,8 +1253,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &40579386
 Rigidbody2D:
   serializedVersion: 4
@@ -1883,8 +1877,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &55530928
 Rigidbody2D:
   serializedVersion: 4
@@ -2102,8 +2094,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &67471111
 Rigidbody2D:
   serializedVersion: 4
@@ -2344,8 +2334,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &76008322
 Rigidbody2D:
   serializedVersion: 4
@@ -2714,8 +2702,6 @@ MonoBehaviour:
   horizontalFrequency: 2
   verticalAmplitude: 2
   verticalFrequency: 2
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &85827573
 Rigidbody2D:
   serializedVersion: 4
@@ -3072,8 +3058,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &88885851
 Rigidbody2D:
   serializedVersion: 4
@@ -3417,8 +3401,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &101043014
 Rigidbody2D:
   serializedVersion: 4
@@ -4073,8 +4055,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &125494973
 Rigidbody2D:
   serializedVersion: 4
@@ -4376,8 +4356,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &134317972
 Rigidbody2D:
   serializedVersion: 4
@@ -4557,8 +4535,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &143884027
 Rigidbody2D:
   serializedVersion: 4
@@ -4815,8 +4791,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &155414436
 Rigidbody2D:
   serializedVersion: 4
@@ -4996,8 +4970,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &157215161
 Rigidbody2D:
   serializedVersion: 4
@@ -5303,8 +5275,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &164747946
 Rigidbody2D:
   serializedVersion: 4
@@ -5539,8 +5509,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &166364585
 Rigidbody2D:
   serializedVersion: 4
@@ -5881,8 +5849,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &180544396
 Rigidbody2D:
   serializedVersion: 4
@@ -6272,8 +6238,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &192295656
 Rigidbody2D:
   serializedVersion: 4
@@ -6530,8 +6494,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &195131505
 Rigidbody2D:
   serializedVersion: 4
@@ -6711,8 +6673,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &203401916
 Rigidbody2D:
   serializedVersion: 4
@@ -7137,8 +7097,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &231746037
 Rigidbody2D:
   serializedVersion: 4
@@ -7679,8 +7637,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &250428355
 Rigidbody2D:
   serializedVersion: 4
@@ -7937,8 +7893,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &252299522
 Rigidbody2D:
   serializedVersion: 4
@@ -8195,8 +8149,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &255517880
 Rigidbody2D:
   serializedVersion: 4
@@ -8958,8 +8910,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &277522865
 Rigidbody2D:
   serializedVersion: 4
@@ -9818,8 +9768,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &296327728
 Rigidbody2D:
   serializedVersion: 4
@@ -9999,8 +9947,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &298096976
 Rigidbody2D:
   serializedVersion: 4
@@ -10615,8 +10561,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &321161415
 Rigidbody2D:
   serializedVersion: 4
@@ -10922,8 +10866,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &329511599
 Rigidbody2D:
   serializedVersion: 4
@@ -11397,8 +11339,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &338697111
 Rigidbody2D:
   serializedVersion: 4
@@ -11746,8 +11686,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &355226958
 Rigidbody2D:
   serializedVersion: 4
@@ -12214,8 +12152,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &362406918
 Rigidbody2D:
   serializedVersion: 4
@@ -13602,8 +13538,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &403703588
 Rigidbody2D:
   serializedVersion: 4
@@ -14021,8 +13955,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &423957411
 Rigidbody2D:
   serializedVersion: 4
@@ -14202,8 +14134,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &439858116
 Rigidbody2D:
   serializedVersion: 4
@@ -14383,8 +14313,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &448974127
 Rigidbody2D:
   serializedVersion: 4
@@ -14689,8 +14617,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &457132055
 Rigidbody2D:
   serializedVersion: 4
@@ -15144,8 +15070,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &477612957
 Rigidbody2D:
   serializedVersion: 4
@@ -15325,8 +15249,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &478745935
 Rigidbody2D:
   serializedVersion: 4
@@ -15644,8 +15566,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &483583537
 Rigidbody2D:
   serializedVersion: 4
@@ -15841,8 +15761,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &483722049
 Rigidbody2D:
   serializedVersion: 4
@@ -16022,8 +15940,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &486308318
 Rigidbody2D:
   serializedVersion: 4
@@ -16938,8 +16854,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &529674844
 Rigidbody2D:
   serializedVersion: 4
@@ -17187,8 +17101,6 @@ MonoBehaviour:
   horizontalFrequency: 4
   verticalAmplitude: 0.6
   verticalFrequency: 4
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &532259257
 Rigidbody2D:
   serializedVersion: 4
@@ -17468,8 +17380,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &534897815
 Rigidbody2D:
   serializedVersion: 4
@@ -17803,8 +17713,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &546426507
 Rigidbody2D:
   serializedVersion: 4
@@ -18110,8 +18018,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &549453109
 Rigidbody2D:
   serializedVersion: 4
@@ -18375,8 +18281,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &557198134
 Rigidbody2D:
   serializedVersion: 4
@@ -18556,8 +18460,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &559135927
 Rigidbody2D:
   serializedVersion: 4
@@ -23123,8 +23025,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &565517931
 Rigidbody2D:
   serializedVersion: 4
@@ -23417,134 +23317,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &570730560
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 570730562}
-  - component: {fileID: 570730561}
-  m_Layer: 0
-  m_Name: SoundPlayer
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!82 &570730561
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 570730560}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4a3c61deb254efe49a6346133351a227, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
---- !u!4 &570730562
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 570730560}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 392.3504, y: 18.23, z: -5.165559}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &572620014
 GameObject:
   m_ObjectHideFlags: 0
@@ -23915,8 +23687,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &580171810
 Rigidbody2D:
   serializedVersion: 4
@@ -24208,8 +23978,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &582717564
 Rigidbody2D:
   serializedVersion: 4
@@ -24588,8 +24356,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &592002277
 Rigidbody2D:
   serializedVersion: 4
@@ -24803,8 +24569,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &604351687
 Rigidbody2D:
   serializedVersion: 4
@@ -25096,8 +24860,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &609174204
 Rigidbody2D:
   serializedVersion: 4
@@ -25361,8 +25123,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &615894339
 Rigidbody2D:
   serializedVersion: 4
@@ -25619,8 +25379,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &623971525
 Rigidbody2D:
   serializedVersion: 4
@@ -26128,8 +25886,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &657107039
 Rigidbody2D:
   serializedVersion: 4
@@ -26370,8 +26126,6 @@ MonoBehaviour:
   horizontalFrequency: 10
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &667058612
 Rigidbody2D:
   serializedVersion: 4
@@ -26567,8 +26321,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &670351732
 Rigidbody2D:
   serializedVersion: 4
@@ -26748,8 +26500,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &670486101
 Rigidbody2D:
   serializedVersion: 4
@@ -27132,8 +26882,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &683125920
 Rigidbody2D:
   serializedVersion: 4
@@ -27528,8 +27276,6 @@ MonoBehaviour:
   horizontalFrequency: 1
   verticalAmplitude: 3
   verticalFrequency: 3
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &698315078
 Rigidbody2D:
   serializedVersion: 4
@@ -27859,134 +27605,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 7.417754, y: 3.2585504}
   m_EdgeRadius: 0
---- !u!1 &708256432
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 708256434}
-  - component: {fileID: 708256433}
-  m_Layer: 0
-  m_Name: Fireball_sound
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!82 &708256433
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 708256432}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5f328603fe648cf48bbb603db0ac22a3, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 0.109
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
---- !u!4 &708256434
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 708256432}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 405.8478, y: 19.43, z: -0.022823412}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &708471309
 GameObject:
   m_ObjectHideFlags: 0
@@ -28461,8 +28079,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &717863323
 Rigidbody2D:
   serializedVersion: 4
@@ -29724,8 +29340,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &770647417
 Rigidbody2D:
   serializedVersion: 4
@@ -29982,8 +29596,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &774236890
 Rigidbody2D:
   serializedVersion: 4
@@ -31258,8 +30870,6 @@ MonoBehaviour:
   horizontalFrequency: 0
   verticalAmplitude: 3
   verticalFrequency: 4
-  audioSource: {fileID: 708256433}
-  hitSound: {fileID: 8300000, guid: 5f328603fe648cf48bbb603db0ac22a3, type: 3}
 --- !u!50 &815505411
 Rigidbody2D:
   serializedVersion: 4
@@ -31532,8 +31142,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &832405717
 Rigidbody2D:
   serializedVersion: 4
@@ -32007,8 +31615,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &843759910
 Rigidbody2D:
   serializedVersion: 4
@@ -32265,8 +31871,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &849450788
 Rigidbody2D:
   serializedVersion: 4
@@ -32514,8 +32118,6 @@ MonoBehaviour:
   horizontalFrequency: 4
   verticalAmplitude: 1
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &852928092
 Rigidbody2D:
   serializedVersion: 4
@@ -32872,8 +32474,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &858682705
 Rigidbody2D:
   serializedVersion: 4
@@ -33564,8 +33164,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &890610764
 Rigidbody2D:
   serializedVersion: 4
@@ -33855,8 +33453,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &900953487
 Rigidbody2D:
   serializedVersion: 4
@@ -34052,8 +33648,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &901221553
 Rigidbody2D:
   serializedVersion: 4
@@ -34387,8 +33981,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &911448571
 Rigidbody2D:
   serializedVersion: 4
@@ -34645,8 +34237,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &925820578
 Rigidbody2D:
   serializedVersion: 4
@@ -35205,8 +34795,6 @@ MonoBehaviour:
   horizontalFrequency: 1
   verticalAmplitude: 4
   verticalFrequency: 3
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &944879956
 Rigidbody2D:
   serializedVersion: 4
@@ -35703,8 +35291,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &950205619
 Rigidbody2D:
   serializedVersion: 4
@@ -36051,8 +35637,6 @@ MonoBehaviour:
   horizontalFrequency: 2.2
   verticalAmplitude: 0
   verticalFrequency: 0
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &958702354
 Rigidbody2D:
   serializedVersion: 4
@@ -36248,8 +35832,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &959567712
 Rigidbody2D:
   serializedVersion: 4
@@ -36703,8 +36285,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &977865190
 Rigidbody2D:
   serializedVersion: 4
@@ -36884,8 +36464,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &980885727
 Rigidbody2D:
   serializedVersion: 4
@@ -37065,8 +36643,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &982706696
 Rigidbody2D:
   serializedVersion: 4
@@ -37246,8 +36822,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &992002927
 Rigidbody2D:
   serializedVersion: 4
@@ -37511,8 +37085,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &998315608
 Rigidbody2D:
   serializedVersion: 4
@@ -38112,8 +37684,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1021950413
 Rigidbody2D:
   serializedVersion: 4
@@ -38405,8 +37975,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1028016863
 Rigidbody2D:
   serializedVersion: 4
@@ -38698,8 +38266,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1036278798
 Rigidbody2D:
   serializedVersion: 4
@@ -38879,8 +38445,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1036545862
 Rigidbody2D:
   serializedVersion: 4
@@ -39336,8 +38900,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1043453660
 Rigidbody2D:
   serializedVersion: 4
@@ -39828,8 +39390,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1063188511
 Rigidbody2D:
   serializedVersion: 4
@@ -41041,8 +40601,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1084970833
 Rigidbody2D:
   serializedVersion: 4
@@ -41383,8 +40941,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1112259392
 Rigidbody2D:
   serializedVersion: 4
@@ -41763,8 +41319,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1130176409
 Rigidbody2D:
   serializedVersion: 4
@@ -42308,8 +41862,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1144186599
 Rigidbody2D:
   serializedVersion: 4
@@ -42623,8 +42175,6 @@ MonoBehaviour:
   horizontalFrequency: 1
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1146570908
 Rigidbody2D:
   serializedVersion: 4
@@ -42981,8 +42531,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1151242863
 Rigidbody2D:
   serializedVersion: 4
@@ -75826,8 +75374,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1180241636
 Rigidbody2D:
   serializedVersion: 4
@@ -76007,8 +75553,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1185821585
 Rigidbody2D:
   serializedVersion: 4
@@ -76349,8 +75893,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1200102292
 Rigidbody2D:
   serializedVersion: 4
@@ -76530,8 +76072,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1202649934
 Rigidbody2D:
   serializedVersion: 4
@@ -76826,8 +76366,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1210546801
 Rigidbody2D:
   serializedVersion: 4
@@ -77007,8 +76545,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1210567043
 Rigidbody2D:
   serializedVersion: 4
@@ -77828,8 +77364,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1227224941
 Rigidbody2D:
   serializedVersion: 4
@@ -77993,8 +77527,6 @@ MonoBehaviour:
   horizontalFrequency: 1
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1229767868
 Rigidbody2D:
   serializedVersion: 4
@@ -78344,8 +77876,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1238190964
 Rigidbody2D:
   serializedVersion: 4
@@ -78927,8 +78457,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1270599887
 Rigidbody2D:
   serializedVersion: 4
@@ -79587,8 +79115,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1286132528
 Rigidbody2D:
   serializedVersion: 4
@@ -79852,8 +79378,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1295746393
 Rigidbody2D:
   serializedVersion: 4
@@ -81257,8 +80781,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1346582142
 Rigidbody2D:
   serializedVersion: 4
@@ -81606,8 +81128,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1351834597
 Rigidbody2D:
   serializedVersion: 4
@@ -81787,8 +81307,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1353127709
 Rigidbody2D:
   serializedVersion: 4
@@ -81968,8 +81486,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1354121961
 Rigidbody2D:
   serializedVersion: 4
@@ -82149,8 +81665,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1363257357
 Rigidbody2D:
   serializedVersion: 4
@@ -82442,8 +81956,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1364039218
 Rigidbody2D:
   serializedVersion: 4
@@ -82810,8 +82322,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1371590067
 Rigidbody2D:
   serializedVersion: 4
@@ -83168,8 +82678,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1377591490
 Rigidbody2D:
   serializedVersion: 4
@@ -83349,8 +82857,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1382947655
 Rigidbody2D:
   serializedVersion: 4
@@ -83530,8 +83036,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1388026892
 Rigidbody2D:
   serializedVersion: 4
@@ -83711,8 +83215,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1395528141
 Rigidbody2D:
   serializedVersion: 4
@@ -83969,8 +83471,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1405627660
 Rigidbody2D:
   serializedVersion: 4
@@ -84845,8 +84345,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1435978218
 Rigidbody2D:
   serializedVersion: 4
@@ -85219,8 +84717,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1440737477
 Rigidbody2D:
   serializedVersion: 4
@@ -86407,8 +85903,6 @@ MonoBehaviour:
   horizontalFrequency: 1
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!1 &1478687243
 GameObject:
   m_ObjectHideFlags: 0
@@ -86464,8 +85958,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1478687246
 Rigidbody2D:
   serializedVersion: 4
@@ -86890,8 +86382,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1486437083
 Rigidbody2D:
   serializedVersion: 4
@@ -87155,8 +86645,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1494891818
 Rigidbody2D:
   serializedVersion: 4
@@ -88210,8 +87698,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1520899754
 Rigidbody2D:
   serializedVersion: 4
@@ -88867,8 +88353,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1538943204
 Rigidbody2D:
   serializedVersion: 4
@@ -89254,8 +88738,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1558546455
 Rigidbody2D:
   serializedVersion: 4
@@ -89736,8 +89218,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1584448458
 Rigidbody2D:
   serializedVersion: 4
@@ -90071,8 +89551,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1597250136
 Rigidbody2D:
   serializedVersion: 4
@@ -90252,8 +89730,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1597374753
 Rigidbody2D:
   serializedVersion: 4
@@ -90807,8 +90283,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1626865157
 Rigidbody2D:
   serializedVersion: 4
@@ -91438,8 +90912,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1644628493
 Rigidbody2D:
   serializedVersion: 4
@@ -91703,8 +91175,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1650890661
 Rigidbody2D:
   serializedVersion: 4
@@ -91884,8 +91354,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1652589590
 Rigidbody2D:
   serializedVersion: 4
@@ -92065,8 +91533,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1657936662
 Rigidbody2D:
   serializedVersion: 4
@@ -92246,8 +91712,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1659273142
 Rigidbody2D:
   serializedVersion: 4
@@ -92427,8 +91891,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1661448606
 Rigidbody2D:
   serializedVersion: 4
@@ -92816,8 +92278,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1665553465
 Rigidbody2D:
   serializedVersion: 4
@@ -93081,8 +92541,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1671789551
 Rigidbody2D:
   serializedVersion: 4
@@ -93423,8 +92881,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1674797874
 Rigidbody2D:
   serializedVersion: 4
@@ -94469,8 +93925,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1716968055
 Rigidbody2D:
   serializedVersion: 4
@@ -94711,8 +94165,6 @@ MonoBehaviour:
   horizontalFrequency: 0
   verticalAmplitude: 6
   verticalFrequency: 4
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1728038288
 Rigidbody2D:
   serializedVersion: 4
@@ -94908,8 +94360,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1731025309
 Rigidbody2D:
   serializedVersion: 4
@@ -95118,134 +94568,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1735935451
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1735935453}
-  - component: {fileID: 1735935452}
-  m_Layer: 0
-  m_Name: DeathSound
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!82 &1735935452
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1735935451}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1214439231c842841b959be1ef39430a, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
---- !u!4 &1735935453
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1735935451}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 392.3504, y: 18.23, z: -5.165559}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1736008135
 GameObject:
   m_ObjectHideFlags: 0
@@ -95511,8 +94833,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1738066815
 Rigidbody2D:
   serializedVersion: 4
@@ -95692,8 +95012,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1738600284
 Rigidbody2D:
   serializedVersion: 4
@@ -95983,8 +95301,6 @@ MonoBehaviour:
   horizontalFrequency: 2
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1746930051
 Rigidbody2D:
   serializedVersion: 4
@@ -96418,8 +95734,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1758330406
 Rigidbody2D:
   serializedVersion: 4
@@ -97120,8 +96434,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1788544134
 Rigidbody2D:
   serializedVersion: 4
@@ -97301,8 +96613,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1791368895
 Rigidbody2D:
   serializedVersion: 4
@@ -97482,8 +96792,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1793807081
 Rigidbody2D:
   serializedVersion: 4
@@ -98025,8 +97333,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1817752547
 Rigidbody2D:
   serializedVersion: 4
@@ -98498,8 +97804,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1852271478
 Rigidbody2D:
   serializedVersion: 4
@@ -98917,8 +98221,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1865171095
 Rigidbody2D:
   serializedVersion: 4
@@ -99098,8 +98400,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1872315894
 Rigidbody2D:
   serializedVersion: 4
@@ -99224,46 +98524,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1872369975
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1872369977}
-  - component: {fileID: 1872369976}
-  m_Layer: 0
-  m_Name: AudioListener
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &1872369976
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1872369975}
-  m_Enabled: 1
---- !u!4 &1872369977
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1872369975}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 403.22375, y: 17.94, z: 0.02289655}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1874083328
 GameObject:
   m_ObjectHideFlags: 0
@@ -99319,8 +98579,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1874083331
 Rigidbody2D:
   serializedVersion: 4
@@ -99500,8 +98758,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1875073254
 Rigidbody2D:
   serializedVersion: 4
@@ -100596,8 +99852,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1899733049
 Rigidbody2D:
   serializedVersion: 4
@@ -100777,8 +100031,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1901888502
 Rigidbody2D:
   serializedVersion: 4
@@ -100912,6 +100164,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1912777990}
+  - component: {fileID: 1912777989}
   m_Layer: 0
   m_Name: MusicPlayer
   m_TagString: Untagged
@@ -100919,6 +100172,102 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!82 &1912777989
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1912777988}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3eedc16e5dfee5f4e902faefcad2f706, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!4 &1912777990
 Transform:
   m_ObjectHideFlags: 0
@@ -100989,8 +100338,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1913300951
 Rigidbody2D:
   serializedVersion: 4
@@ -101246,8 +100593,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1942628368
 Rigidbody2D:
   serializedVersion: 4
@@ -101427,8 +100772,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1942823148
 Rigidbody2D:
   serializedVersion: 4
@@ -102167,7 +101510,6 @@ GameObject:
   - component: {fileID: 1971055710}
   - component: {fileID: 1971055711}
   - component: {fileID: 1971055712}
-  - component: {fileID: 1971055713}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -102257,7 +101599,7 @@ Transform:
   m_GameObject: {fileID: 1971055704}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 396.43, y: 11.14, z: -5}
+  m_LocalPosition: {x: 554.1, y: 14.15, z: -5}
   m_LocalScale: {x: 0.372, y: 0.35, z: 0.3}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -102356,7 +101698,6 @@ MonoBehaviour:
   bulletSpeed: 16
   currentHealth: 0
   maxHealth: 20
-  musicPlayer: {fileID: 570730560}
 --- !u!81 &1971055712
 AudioListener:
   m_ObjectHideFlags: 0
@@ -102365,102 +101706,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1971055704}
   m_Enabled: 1
---- !u!82 &1971055713
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1971055704}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3eedc16e5dfee5f4e902faefcad2f706, type: 3}
-  m_PlayOnAwake: 1
-  m_Volume: 0.1
-  m_Pitch: 1
-  Loop: 1
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!1 &1971541069
 GameObject:
   m_ObjectHideFlags: 0
@@ -102516,8 +101761,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1971541072
 Rigidbody2D:
   serializedVersion: 4
@@ -102697,8 +101940,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1972106032
 Rigidbody2D:
   serializedVersion: 4
@@ -103032,8 +102273,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1980652190
 Rigidbody2D:
   serializedVersion: 4
@@ -103545,8 +102784,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1992003727
 Rigidbody2D:
   serializedVersion: 4
@@ -103726,8 +102963,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1996349877
 Rigidbody2D:
   serializedVersion: 4
@@ -103907,8 +103142,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &1998176841
 Rigidbody2D:
   serializedVersion: 4
@@ -104312,8 +103545,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2003606445
 Rigidbody2D:
   serializedVersion: 4
@@ -104493,8 +103724,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2006857960
 Rigidbody2D:
   serializedVersion: 4
@@ -105188,8 +104417,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2036175633
 Rigidbody2D:
   serializedVersion: 4
@@ -106079,8 +105306,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2073353098
 Rigidbody2D:
   serializedVersion: 4
@@ -106645,8 +105870,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2088316399
 Rigidbody2D:
   serializedVersion: 4
@@ -106826,8 +106049,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2091845254
 Rigidbody2D:
   serializedVersion: 4
@@ -107168,8 +106389,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2098964598
 Rigidbody2D:
   serializedVersion: 4
@@ -107613,8 +106832,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2107965268
 Rigidbody2D:
   serializedVersion: 4
@@ -107887,8 +107104,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2114250651
 Rigidbody2D:
   serializedVersion: 4
@@ -108586,8 +107801,6 @@ MonoBehaviour:
   horizontalFrequency: 0.5
   verticalAmplitude: 0
   verticalFrequency: 1
-  audioSource: {fileID: 0}
-  hitSound: {fileID: 0}
 --- !u!50 &2140698029
 Rigidbody2D:
   serializedVersion: 4
@@ -108712,63 +107925,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &757387454795656582
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2864670705956530135, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_Name
-      value: Hit_OBJECT
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 396.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 20.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5737822941468377471, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 152c48ef0b7d1794aa6390b01a31aa45, type: 3}
 --- !u!1001 &2015417420612867473
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -108866,8 +108022,3 @@ SceneRoots:
   - {fileID: 263689466}
   - {fileID: 836287787}
   - {fileID: 2015417420612867473}
-  - {fileID: 570730562}
-  - {fileID: 1735935453}
-  - {fileID: 757387454795656582}
-  - {fileID: 1872369977}
-  - {fileID: 708256434}

@@ -18,12 +18,19 @@ public class Enemy_Controller_T : MonoBehaviour
     private float initialX;
     private float initialY;
 
+    // Sound effect variables
+    public AudioSource audioSource;
+    public AudioClip hitSound;
+
     // Start is called before the first frame update
     void Start()
     {
         currentHealth = maxHealth;
         initialX = transform.position.x; // Store the initial X position for horizontal oscillation
         initialY = transform.position.y; // Store the initial Y position for vertical oscillation
+
+        // Get the AudioSource component attached to the enemy
+        audioSource = GetComponent<AudioSource>();
     }
 
     public void Invincible(bool invincibility)
@@ -40,6 +47,11 @@ public class Enemy_Controller_T : MonoBehaviour
             if (currentHealth <= 0)
             {
                 Defeat();
+            }
+            else
+            {
+                // Play the hit sound effect
+                PlayHitSound();
             }
         }
     }
@@ -79,5 +91,14 @@ public class Enemy_Controller_T : MonoBehaviour
         newPosition.x = initialX + horizontalOffset;
         newPosition.y = initialY + verticalOffset;
         transform.position = newPosition;
+    }
+
+    // Play the hit sound effect
+    void PlayHitSound()
+    {
+        if (audioSource != null && hitSound != null)
+        {
+            audioSource.PlayOneShot(hitSound);
+        }
     }
 }
