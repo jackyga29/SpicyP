@@ -7,7 +7,7 @@ public class ParallaxController : MonoBehaviour
     float distance;
 
     GameObject[] backgrounds; 
-    Material[] mat; 
+    Renderer[] renderers; // Change to Renderer array instead of Material array
     float[] backSpeed; 
 
     float farthestBack = float.NegativeInfinity; 
@@ -21,14 +21,14 @@ public class ParallaxController : MonoBehaviour
         camStartPos = cam.position;
 
         int backCount = transform.childCount;
-        mat = new Material[backCount];
+        renderers = new Renderer[backCount]; // Change to Renderer array
         backSpeed = new float[backCount]; 
         backgrounds = new GameObject[backCount];
 
         for(int i = 0; i < backCount; i++)
         {
             backgrounds[i] = transform.GetChild(i).gameObject; 
-            mat[i] = backgrounds[i].GetComponent<Renderer>().material; 
+            renderers[i] = backgrounds[i].GetComponent<Renderer>(); // Get the Renderer component
         }
         
         BackSpeedCalculate(backCount);
@@ -58,7 +58,16 @@ public class ParallaxController : MonoBehaviour
         for(int i = 0; i < backgrounds.Length; i++)
         {
             float speed = backSpeed[i] * parallaxSpeed; 
-            mat[i].SetTextureOffset("_MainTex", new Vector2(distance, 0) * speed);
+            renderers[i].material.SetTextureOffset("_MainTex", new Vector2(distance, 0) * speed); // Access the material through the renderer
+        }
+    }
+
+    // Add the ChangeBackground method
+    public void ChangeBackground(Material newMaterial)
+    {
+        for (int i = 0; i < renderers.Length; i++)
+        {
+            renderers[i].material = newMaterial; // Change the material of each background object
         }
     }
 }
