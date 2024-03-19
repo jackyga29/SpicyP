@@ -34,7 +34,6 @@ public class PlayerController_V2 : MonoBehaviour
 
     public GameObject musicPlayer;
     private AudioSource audioSource;
-    private bool deathSoundPlayed = false; // Flag to track if death sound has been played
 
     void Start()
     {
@@ -175,12 +174,7 @@ public class PlayerController_V2 : MonoBehaviour
             Mathf.Clamp(currentHealth, 0, maxHealth);
             if (currentHealth <= 0)
             {
-                currentHealth = 0;
-                if (!deathSoundPlayed) // Play death sound only if not already played
-                {
-                    Defeat();
-                    deathSoundPlayed = true; // Set the flag to true
-                }
+                Defeat();
             }
             else
             {
@@ -188,11 +182,6 @@ public class PlayerController_V2 : MonoBehaviour
                 StartDamageAnimation();
                 Invoke("StopDamageAnimation", 1.0f);
             }
-        }
-
-        if (currentHealth <= 0)
-        {
-            FreezePlayer();
         }
     }
 
@@ -243,40 +232,19 @@ public class PlayerController_V2 : MonoBehaviour
 
     void Defeat()
     {
-        PlayDeathSound(); // Play death sound before the delay
-        StartCoroutine(ReloadSceneAfterDelay(5f)); // Reduced delay to 3 seconds
-    }
-
-    void PlayDeathSound()
-    {
-        // Assuming you have an AudioSource component attached to the PlayerController_V2 game object
-        if (audioSource != null)
-        {
-            // Load and play the DeathSound audio clip
-            AudioClip deathSoundClip = Resources.Load<AudioClip>("DeathSound");
-            if (deathSoundClip != null)
-            {
-                audioSource.PlayOneShot(deathSoundClip);
-            }
-            else
-            {
-                Debug.LogWarning("DeathSound audio clip not found.");
-            }
-        }
-        else
-        {
-            Debug.LogWarning("AudioSource component not found.");
-        }
-    }
-
-    void FreezePlayer()
-    {
-        rb2d.constraints = RigidbodyConstraints2D.FreezeAll;
+        StartCoroutine(ReloadSceneAfterDelay(5f));
     }
 
     IEnumerator ReloadSceneAfterDelay(float delay)
     {
         yield return new WaitForSeconds(delay);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reload the current scene
+    }
+
+    public void Heal(int amount)
+    {
+        currentHealth += amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        // Optionally, you can play a healing animation or sound effect here
     }
 }
